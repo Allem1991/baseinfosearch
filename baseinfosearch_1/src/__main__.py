@@ -20,6 +20,7 @@ with open("urls.txt", "r") as f:
     for line in f:
         urls.append(line)
 
+urls = [url.replace('\n','') for url in urls]
 spider = Spider(urls)
 
 spider.run()

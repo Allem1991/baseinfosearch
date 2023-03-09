@@ -2,26 +2,45 @@ import requests
 
 from bs4 import BeautifulSoup
 
-if __name__ == '__main__':
-    url = 'https://en.wikipedia.org/wiki/'
+
+def get_all_links_from_page():
+    url = 'https://en.wikipedia.org/wiki/Scotland'
     reqs = requests.get(url)
     soup = BeautifulSoup(reqs.text, 'html.parser')
 
-    urls = []
+    urls = set()
     for link in soup.find_all('a'):
-        urls.append(link.get('href'))
+        urls.add(link.get('href'))
 
     with open("urls.txt", "w") as f:
-        for url in urls:
-            f.write(f"{url}\n")
-            f.write(f"https://en.wikipedia.org/wiki/\n")
+        for url_ in urls:
+            if url_ and url_.startswith("/"):
+                f.write("https://en.wikipedia.org" + url_ + "\n")
 
 
-set_ = set()
-with open("urls.txt", "r") as f:
-    for line in f:
-        set_.add(line)
+def remove_duplicates():
+    urls = set()
+    with open("urls.txt", "r") as f:
+        for line in f:
+            urls.add(line.strip())
 
-with open("urls.txt", "w") as f:
-    for line in set_:
-        f.write(line)
+    with open("urls.txt", "w") as f:
+        for url_ in urls:
+            f.write(url_ + "\n")
+
+
+def remove():
+    urls = set()
+    with open("urls.txt", "r") as f:
+        for line in f:
+            urls.add(line.strip())
+
+    with open("urls.txt", "w") as f:
+        for url_ in urls:
+            f.write(url_ + "\n")
+
+
+if __name__ == '__main__':
+    #get_all_links_from_page()
+    remove_duplicates()
+    #remove()

@@ -2,3 +2,5 @@ aiohttp
 requests
 beautifulsoup4
 aiofiles
+spacy
+python-Levenshtein
