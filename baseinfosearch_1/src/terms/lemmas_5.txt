@@ -1,0 +1,547 @@
+show: showed showing
+refer: referred refers
+change: changed changes
+barrier: barriers
+minimum: minimums
+adopt: adopting adopted
+increase: increases increased
+province: provinces
+requirement: requirements
+deflate: deflated
+coupling: couplings
+license: licensed licenses
+recentchangeslinke: recentchangeslinked
+simulator: simulators
+archive: archived
+transporter: transporters
+overload: overloading overloaded
+resource: resources
+race: racing
+driverknowledgetest: driverknowledgetests
+mount: mounted mounting
+hinge: hinges hinged
+episode: episodes
+kilogram: kilograms
+associate: associated
+fpaper: fpapers
+combination: combinations
+exceed: exceeded exceeding
+concern: concerned concerns
+fasset: fassets
+enhance: enhanced
+trial: trials
+gain: gaining gained
+mercede: mercedes
+require: requiring required requires
+effort: efforts
+statistic: statistics
+class: classed classes
+factsheet: factsheets
+revision: revisions
+lorry: lorries
+operation: operations
+navigate: navigating
+need: needed
+operator: operators
+respect: respects
+compare: comparing compared
+cover: covers covered
+measure: measures
+shape: shapes shaped
+customize: customized
+nowraplink: nowraplinks
+confine: confined
+farticle: farticles
+make: making
+term: termed
+verify: verified
+contain: containing
+drive: driving driven
+turntable: turntables
+run: running
+motorwork: motorworks
+aerodynamic: aerodynamics
+specification: specifications
+metre: metres
+setup: setups
+city: cities
+star: starring
+adult: adults
+notify: notified
+disclaimer: disclaimers
+understand: understanding
+limit: limits limiting
+authorize: authorized
+attach: attaches attached
+shift: shifting shifts
+instal: installed
+return: returned
+standardize: standardized
+mirror: mirrored
+vehicle: vehicles
+pull: pulling pulled
+enable: enabled enables
+retrieve: retrieved
+allow: allows allowing allowed
+custom: customs
+danger: dangers
+benefit: benefits
+safe: safest
+fpicture: fpictures
+reflect: reflected
+common: commons
+speed: speeds
+rotate: rotated
+long: longer longest
+government: governments
+circuit: circuits
+flatbed: flatbeds
+reference: references
+trend: trends
+holder: holders
+prompt: prompted
+design: designs designing designed
+language: languages
+firstheade: firstheading
+heavy: heavier heaviest
+implement: implemented
+select: selected
+wheeler: wheelers
+currentevent: currentevents
+transmission: transmissions
+provide: provides provided providing
+prevent: preventing prevented
+feature: features featured featuring
+subject: subjects
+suzie: suzies
+link: linked
+publication: publications
+motor: motors
+auxiliary: auxiliaries
+high: highest
+counterpart: counterparts
+press: pressed
+advise: advised
+kill: killed
+error: errors
+share: sharing
+prepare: prepared preparing
+regulation: regulations
+entry: entries
+miss: missing
+unporte: unported
+restrict: restricted
+endorsement: endorsements
+mover: movers
+placard: placards
+cache: cached
+improve: improving improved
+issue: issued issues
+flex: flexing
+offer: offers
+prove: proving
+adjust: adjusting adjusted
+langlink: langlinks
+retard: retarder
+possibility: possibilities
+indicator: indicators
+reduce: reduces reducing reduced
+steer: steering
+catlink: catlinks
+secure: secured securing
+autobot: autobots
+stop: stopping stopped
+emission: emissions
+contribution: contributions
+trailer: trailers
+pillar: pillars
+get: getting
+overheat: overheating
+believe: believed
+advantage: advantages
+restriction: restrictions
+remove: removed
+cause: caused causing
+specialize: specialized
+add: adding
+hide: hidden
+approve: approved
+location: locations
+jurisdiction: jurisdictions
+fweight: fweights
+plainlink: plainlinks
+fgallerie: fgalleries
+reefer: reefers
+trick: tricked
+cost: costing
+spread: spreads
+place: placed places
+coupler: couplers
+seat: seated
+bonnet: bonneted
+handle: handling handled
+tanker: tankers
+frule: frules
+effect: effects
+sentence: sentences
+exclude: excluding
+log: logged logging
+wheel: wheels wheeled
+enclose: encloses enclosed
+introduce: introduced
+licence: licences
+mechanic: mechanics
+transport: transports
+ftruck: ftrucks
+company: companies
+truck: trucks
+liquid: liquids
+highway: highways
+avoid: avoids
+permit: permitted permits
+route: routes
+limitation: limitations
+legger: leggers
+flatbe: flatbed
+frelease: freleases
+dot: dotted
+state: states
+guideline: guidelines
+replace: replaced
+insist: insisted
+gearbox: gearboxes
+returnload: returnloads
+chart: charts
+warn: warning
+service: services
+cereal: cereals
+receive: received
+consider: considered
+drivingtest: drivingtests
+connector: connectors
+invention: inventions
+tractor: tractors
+stipulation: stipulations
+pound: pounds
+strengthen: strengthening
+lift: lifted lifting
+signal: signals
+containerize: containerized
+program: programs
+have: having
+synchronize: synchronized
+content: contents
+document: documents
+advance: advanced
+parse: parsed
+match: matches
+support: supported
+clutch: clutching
+second: seconds
+light: lighter lights
+category: categories
+driver: drivers
+fcomment: fcomments
+arrangement: arrangements
+report: reporting
+modify: modified
+define: defines
+pack: packed
+large: largest larger
+operate: operates operating operated
+include: including includes
+involve: involves
+tonne: tonnes
+intend: intended
+supersede: superseding
+fmove: fmoving
+coil: coiled
+cyclist: cyclists
+trucker: truckers
+start: started starting
+spur: spurred
+call: called
+corner: corners
+train: trains
+exemption: exemptions
+closure: closures
+skid: skidding
+designate: designated
+prohibit: prohibiting prohibited
+direct: directed
+follow: following followed follows
+variant: variants
+entity: entities
+interstate: interstates
+jackknife: jackknifing
+cool: cooling
+collapse: collapsed collapses
+influence: influenced
+single: singles
+uncouple: uncoupling
+regulate: regulated regulates
+heat: heated
+maximum: maximums
+manufacture: manufactured
+villain: villains
+result: resulted
+authority: authorities
+ratio: ratios
+ensure: ensuring ensures
+asset: assets
+bus: busses
+word: wording
+turn: turning
+county: counties
+articulate: articulated
+achieve: achieved
+supply: supplies supplied
+fclasse: fclasses
+stack: stacks
+structure: structured
+recentchange: recentchanges
+standard: standards
+head: heading headed
+develop: developed
+stand: standing
+waste: wasted
+govern: governing
+couple: coupling coupled
+dedicate: dedicated
+conferenceproceeding: conferenceproceedings
+ventilate: ventilated
+consist: consists
+confuse: confused
+meter: meters
+concept: concepts
+paper: papers
+mandate: mandated
+encourage: encouraged
+comment: comments
+model: models
+characteristic: characteristics
+flash: flashing
+control: controlled controls
+carry: carried carrying
+short: shorter
+disadvantage: disadvantages
+editor: editors
+take: taking
+specify: specified
+conduct: conducting
+municipality: municipalities
+product: products
+become: becomes becoming became
+ffactsheet: ffactsheets
+fit: fitted
+cite: citing
+death: deaths
+fantasize: fantasizing
+space: spacing
+complication: complications
+refrigerate: refrigerated
+fgette: fgetting
+depend: depending
+robot: robots
+announce: announces
+capital: capitals
+hang: hanging
+event: events
+recommend: recommended
+double: doubles
+grow: growing
+article: articles
+fpublication: fpublications
+figure: figures
+disengage: disengaged disengages
+commence: commenced
+industry: industries
+guide: guides
+citerefunite: citerefunited
+relate: related
+swing: swings
+raise: raised
+bottle: bottles
+popularmechanic: popularmechanics
+unsource: unsourced
+manufacturer: manufacturers
+carrier: carriers
+solution: solutions
+connection: connections
+sitelink: sitelinks
+sidewall: sidewalls
+brand: branding
+engage: engaging
+maneuver: maneuvering
+unload: unloaded unloading
+roger: rogers
+crane: cranes
+correspond: corresponding
+negotiation: negotiations
+recover: recovering
+well: better
+style: styles
+mycontribution: mycontributions
+escort: escorted
+otherproject: otherprojects
+signify: signifies
+guard: guards
+give: giving
+estimate: estimated
+register: registered
+retain: retaining
+donate: donating
+feverythe: feverything
+far: further
+retarder: retarders
+country: countries
+can: cannot
+separate: separated
+land: landing
+browse: browsing
+caction: cactions
+release: released releases
+coach: coaches
+write: written writing
+weigh: weighs weighing
+booksource: booksources
+lower: lowered
+automate: automated
+volvotruck: volvotrucks
+resourceloaderdynamicstyle: resourceloaderdynamicstyles
+repair: repairs
+material: materials
+namespace: namespaces
+move: moving
+fast: faster
+fpavement: fpavements
+grind: grinding
+citerefroger: citerefrogers
+claim: claimed
+actro: actros
+precede: preceding
+trucke: truckes
+balance: balanced
+endorse: endorsed
+semitrailer: semitrailers
+access: accessed
+podcast: podcasts
+device: devices
+reason: reasons
+weight: weights
+identifier: identifiers
+specialpage: specialpages
+case: casing
+pin: pinned
+mark: marking marked
+damage: damaging
+bclaw: bclaws
+revolution: revolutions
+farmer: farmers
+system: systems
+combine: combined
+triple: triples
+statement: statements
+joint: joints
+load: loaded
+fconferenceproceeding: fconferenceproceedings
+matter: matters
+shorten: shortened
+rigsofrod: rigsofrods
+pressurize: pressurizes pressurized
+length: lengths
+application: applications
+haul: hauling
+label: labeled
+produce: produces
+power: powered
+circumstance: circumstances
+drink: drinks
+vary: varies
+passenger: passengers
+fulfil: fulfilled
+study: studying
+extend: extended
+construct: constructing
+offense: offenses
+edit: edited editing
+configuration: configurations
+assert: asserted
+source: sources
+creativecommon: creativecommons
+ninatran: ninatrans
+skirt: skirted
+exist: exists
+host: hosted
+visit: visited
+accident: accidents
+equip: equipped
+fheavi: fheaviest
+hold: holding
+great: greater
+dimension: dimensions
+oversize: oversized
+outline: outlining
+fresource: fresources
+pavement: pavements
+project: projects
+bolt: bolted
+brake: braking brakes
+remain: remaining remains
+transformer: transformers
+improvement: improvements
+gallery: galleries
+force: forced
+reinforce: reinforced
+ship: shipping
+pedestrian: pedestrians
+cabover: cabovers
+describe: described
+month: months
+option: options
+fdocument: fdocuments
+apply: applied
+library: libraries
+picture: pictures pictured
+tow: towing
+condition: conditions
+debate: debated
+continue: continuing
+column: columns
+unpin: unpinned
+portal: portals
+swirl: swirling
+squat: squatting
+detach: detached
+thing: things
+meet: meeting
+stunticon: stunticons
+ftrucke: ftrucking
+trigger: triggered
+represent: representing
+container: containers
+test: tested
+alternate: alternating
+protect: protecting
+acquaint: acquainted
+render: rendering
+developer: developers
+decode: decoding
+serve: served
+exert: exerts
+engine: engines
+realize: realized
+differential: differentials
+radio: radios
+retract: retracts
+point: points
+oppose: opposed
+image: images
+destroy: destroyed
+saving: savings
+title: titles
+bridge: bridges
+publish: published
+ffact: ffacts
+immortalize: immortalized
+phase: phased

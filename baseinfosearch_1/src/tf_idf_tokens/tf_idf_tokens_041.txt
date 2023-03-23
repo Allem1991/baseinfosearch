@@ -1,0 +1,14 @@
+contact 0.0 0.0
+information 0.010050335853501506 0.0007178811323929647
+height 0.0 0.0
+srcset 0.0 0.0
+content 0.0 0.0
+doctype 0.0 0.0
+charset 0.0 0.0
+servers 3.506557897319982 0.2504684212371415
+wikimedia 0.0 0.0
+wikipedia 0.0 0.0
+images 0.0 0.0
+static 0.0 0.0
+alternatively 4.605170185988092 0.32894072757057796
+ 0.0 0.0

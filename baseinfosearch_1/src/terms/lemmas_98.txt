@@ -1,0 +1,380 @@
+refer: referred
+difference: differences
+complicate: complicated
+change: changed changes
+dock: docking
+adopt: adopted
+serve: served serving
+fnewspaper: fnewspapers
+detect: detecting
+requirement: requirements
+expand: expanded
+accompany: accompanying
+level: levels
+recentchangeslinke: recentchangeslinked
+agency: agencies
+involve: involved
+disestablish: disestablished
+period: periods
+associate: associated
+schedule: schedules scheduled
+master: masters
+send: sending
+maintain: maintained
+tighten: tightened
+seek: sought
+embark: embarked
+sailing: sailings
+general: generals
+reference: references referenced
+catch: caught
+gain: gaining gained
+require: required
+effort: efforts
+impose: imposed
+statistic: statistics
+revision: revisions
+footnote: footnotes
+operation: operations
+need: needed
+fbook: fbooks
+seize: seized
+acquire: acquired
+measure: measures
+warehouse: warehouses
+transfer: transferring transferred
+shipment: shipments
+nowraplink: nowraplinks
+detail: details detailing
+farticle: farticles
+make: making
+subport: subports
+contain: contained containing
+drive: driving driven
+architect: architects
+connect: connecting
+resume: resumed
+stage: staged stages
+city: cities
+shank: shanks
+notify: notified
+disclaimer: disclaimers
+propel: propelled
+recognize: recognized
+unify: unified
+communist: communists
+prescribe: prescribed
+shift: shifting
+return: returning returned
+vehicle: vehicles
+retrieve: retrieved
+play: played
+fportal: fportals
+common: commons
+battalion: battalions
+compose: composed
+include: including included includes
+order: orders ordering
+prisoner: prisoners
+dub: dubbed
+refine: refined
+voyage: voyages
+magazine: magazines
+language: languages
+firstheade: firstheading
+commander: commanders
+munition: munitions
+close: closer
+troop: troops
+accomplishment: accomplishments
+select: selected
+procedure: procedures
+currentevent: currentevents
+station: stations
+desire: desired
+pass: passed passing
+disembark: disembarked disembarking
+link: linked
+port: ported
+identity: identities
+requisition: requisitioned requisitions
+explosive: explosives
+coordinate: coordinated coordinating
+high: highest
+advise: advised
+kill: killed
+transport: transporting transported transports
+study: studies
+prepare: prepared preparing
+regulation: regulations
+range: ranged
+miss: missing
+cover: covered covering
+unporte: unported
+discontinue: discontinued
+cache: cached
+booklet: booklets
+issue: issued
+debark: debarked debarking
+langlink: langlinks
+indicator: indicators
+airmail: airmailed
+terminal: terminals
+barricade: barricaded
+catlink: catlinks
+contribution: contributions
+problem: problems
+enter: entered
+declare: declared
+restriction: restrictions
+specialize: specialized
+hide: hidden
+recall: recalled
+produce: produced
+manage: managed
+stevedore: stevedores
+depot: depots
+supply: supplying supplies
+mandate: mandates
+place: placed places
+quote: quoted
+outfit: outfitting
+concern: concerning concerns
+action: actions
+handle: handling handled
+headquarter: headquartered
+theater: theaters
+deven: devens
+board: boarded
+sentence: sentences
+furnish: furnished furnishing
+log: logged
+understand: understood
+elevate: elevated
+fail: failed
+distribute: distributed
+vessel: vessels
+establish: established
+determine: determined
+railroad: railroads
+route: routes
+crowd: crowded
+state: states
+ally: allied
+sail: sailing
+force: forced forces
+command: commands commanding
+replace: replaced
+representative: representatives
+service: services
+revive: revived
+center: centered
+patient: patients
+consider: considered
+supervise: supervised
+voorhee: voorhees
+oceangoe: oceangoing
+have: having
+plan: planning
+content: contents
+advance: advanced
+farmypub: farmypubs
+exist: exists existing
+reject: rejected
+parse: parsed
+match: matches matching
+support: supported
+second: seconds
+enable: enabled
+walk: walking
+interconnect: interconnected
+category: categories
+component: components
+report: reporting
+valuable: valuables
+department: departments
+equip: equipped equipping
+organization: organizations
+expect: expected
+number: numbers
+large: largest
+remain: remains remaining remained
+eyeglass: eyeglasses
+intend: intended
+inhabit: inhabited
+increase: increasing
+individual: individuals
+designate: designated
+variant: variants
+entity: entities
+license: licenses
+misgiving: misgivings
+collapse: collapsed collapses
+gear: geared
+destine: destined
+authority: authorities
+ensure: ensuring
+asset: assets
+berth: berths
+anticipate: anticipated
+demand: demands
+reactivate: reactivated
+structure: structured
+recentchange: recentchanges
+head: heading headed
+develop: developed developing
+bring: brought
+turn: turned
+agent: agents
+fepub: fepubs
+hospital: hospitals
+devote: devoted
+concept: concepts
+member: members
+indie: indies
+disease: diseases
+encourage: encouraged
+create: created
+control: controlling controlled controls
+consolidate: consolidating consolidated
+assemble: assembled
+editor: editors
+take: taking
+summarize: summarized
+product: products
+become: becoming became
+assume: assumed
+instruct: instructed
+officer: officers
+responsibility: responsibilities
+fit: fitted
+space: spacing
+complication: complications
+robot: robots
+directive: directives
+event: events
+article: articles
+redesignate: redesignated
+guide: guides
+relate: related
+continue: continued
+unsource: unsourced
+manufacturer: manufacturers
+sitelink: sitelinks
+convey: conveyed
+logistic: logistics
+unload: unloading
+operate: operating operated
+activity: activities
+style: styles
+wound: wounded
+mycontribution: mycontributions
+otherproject: otherprojects
+reach: reached
+early: earliest
+assign: assigned
+communication: communications
+address: addressed
+register: registered
+resolve: resolved
+donate: donating
+formation: formations
+burden: burdens
+separate: separated
+land: landing
+browse: browsing
+caction: cactions
+rival: rivaling
+booksource: booksources
+arrive: arriving
+inefficiency: inefficiencies
+resourceloaderdynamicstyle: resourceloaderdynamicstyles
+namespace: namespaces
+move: moving
+conduct: conducted
+group: groups
+secure: secured
+exercise: exercised
+freighter: freighters
+reason: reasons
+identifier: identifiers
+specialpage: specialpages
+pin: pinned
+conversion: conversions
+employ: employed
+statement: statements
+load: loaded
+receive: receiving
+organize: organized
+movement: movements
+matter: matters
+reduce: reduced
+instruction: instructions
+governor: governors
+newspaper: newspapers
+identify: identifying
+label: labeled
+division: divisions
+march: marched
+dispatch: dispatched
+power: powered
+facility: facilities
+delay: delays
+sort: sorting
+passenger: passengers
+extend: extended
+edit: edited editing
+civilian: civilians
+regulate: regulating
+function: functions
+adjustment: adjustments
+ship: shipping shipped
+source: sources
+creativecommon: creativecommons
+host: hosted
+visit: visited
+wait: waiting
+work: working
+great: greater
+street: streets
+other: others
+attempt: attempted
+project: projects
+doughnut: doughnuts
+harbor: harbors
+count: counting
+attend: attending
+siding: sidings
+improvement: improvements
+construct: constructed
+process: processed
+scuttle: scuttled
+option: options
+disband: disbanded
+library: libraries
+locate: located
+billet: billeting
+disaster: disasters
+begin: beginning
+radical: radicals
+appoint: appointed
+condition: conditions
+charter: chartered
+column: columns
+unpin: unpinned
+portal: portals
+envisage: envisaged
+surgeon: surgeons
+basin: basins
+trigger: triggered
+train: trained
+render: rendering
+developer: developers
+decode: decoding
+minimize: minimizing
+point: points
+help: helped
+image: images
+alert: alerting
+stock: stocks
+modification: modifications

@@ -1,0 +1,718 @@
+accord: according
+difference: differences
+change: changed changes
+obtain: obtained
+german: germans
+serve: served serving
+abandon: abandoned
+round: rounds rounding
+citerefwatt: citerefwatts
+dock: docked
+requirement: requirements
+expand: expanded
+recentchangeslinke: recentchangeslinked
+archive: archived
+repair: repairs repaired
+involve: involved
+transporter: transporters
+crossing: crossings
+period: periods
+interrupt: interrupted
+crash: crashed
+associate: associated
+exceed: exceeding
+explain: explaining
+campaign: campaigns
+discard: discarded
+maintain: maintained
+bierghe: bierghes
+staff: staffs
+avoid: avoided
+exigency: exigencies
+general: generals
+decide: decided
+dump: dumping
+catch: caught
+admission: admissions
+maline: malines
+warm: warmer
+require: requiring required
+lead: leading
+effort: efforts
+hand: handed
+border: bordered
+statistic: statistics
+bresken: breskens
+surrender: surrendered
+deteriorate: deteriorating
+drop: dropping
+revision: revisions
+lorry: lorries
+paratroop: paratroops
+suspend: suspended
+crack: cracks
+operation: operations
+need: needed
+bivouac: bivouacs
+operator: operators
+organise: organising organised
+fbook: fbooks
+acquire: acquired
+stack: stacking stacked
+work: worked working
+warehouse: warehouses
+horse: horses
+preserve: preserved
+barge: barges
+shipment: shipments
+stock: stocks stocking stocked
+nowraplink: nowraplinks
+confine: confined
+cancel: cancelled
+make: making
+taxiway: taxiways
+incorporate: incorporated
+ration: rations
+contain: contained containing
+drive: driving driven
+run: running
+surround: surrounding
+resume: resumed
+dismantle: dismantling
+engage: engaged
+extinguish: extinguished
+form: formed
+minesweeper: minesweepers
+disclaimer: disclaimers
+impair: impaired
+discharge: discharging discharged
+pattern: patterns
+attach: attached
+prescribe: prescribed
+open: opened
+instal: installed
+observer: observers
+necessitate: necessitating
+duty: duties
+return: returning returned
+vehicle: vehicles
+retrieve: retrieved
+allow: allowing allowed
+commodity: commodities
+danger: dangers
+await: awaiting
+common: commons
+suppose: supposed
+compare: compared
+government: governments
+borrow: borrowing
+include: including included
+order: orders ordered
+pounder: pounders
+prisoner: prisoners
+reference: references
+ferry: ferried ferries
+average: averaged
+prompt: prompted
+fight: fighting
+store: stored stores storing
+obstruction: obstructions
+consist: consisting consisted
+dakota: dakotas
+steal: stolen
+language: languages
+firstheade: firstheading
+commander: commanders
+close: closed closer
+collection: collections
+locomotive: locomotives
+troop: troops
+fighter: fighters
+protect: protected
+cross: crossing crossed
+water: waters
+sherman: shermans
+select: selected
+obstacle: obstacles
+enslave: enslaved
+rely: relying
+procedure: procedures
+purchase: purchased purchasing
+currentevent: currentevents
+provide: providing provided
+flush: flushing
+station: stations stationed
+desire: desired
+complicate: complicating
+quota: quotas
+shortcoming: shortcomings
+pass: passed
+opportunity: opportunities
+consume: consumed
+link: linked
+group: grouped groups
+motor: motors
+holding: holdings
+tombola: tombolas
+land: landing landed
+recover: recovered
+appropriate: appropriated
+high: highest higher
+function: functions functioning
+preparation: preparations
+predetermine: predetermined
+press: pressing pressed
+vet: vetted
+designation: designations
+amount: amounts
+kill: killed
+railhead: railheads
+transport: transported
+attempt: attempts
+cutback: cutbacks
+steelwork: steelworks
+fethese: fetheses
+cover: covered
+unporte: unported
+restrict: restricted
+pack: packing
+escape: escaped
+amalgamate: amalgamated
+demand: demands demanded
+deploy: deployed deploying
+slow: slower
+discontinue: discontinued
+cache: cached
+tipper: tippers
+issue: issuing issued issues
+elevator: elevators
+divide: divided
+swell: swelled
+sign: signed
+laundry: laundries
+restore: restoring restored
+alternative: alternatives
+bakery: bakeries
+beach: beaches
+stirling: stirlings
+langlink: langlinks
+commit: committing
+support: supported supporting
+indicator: indicators
+collect: collected
+reduce: reducing reduced
+catlink: catlinks
+secure: secured securing
+difficulty: difficulties
+courseulle: courseulles
+explode: exploded
+worker: workers
+biscuit: biscuits
+prioritise: prioritising prioritised
+contribution: contributions
+trailer: trailers
+assure: assured
+bruge: bruges
+problem: problems
+get: getting
+torpedo: torpedoes
+restriction: restrictions
+remove: removed
+landing: landings
+platoon: platoons
+cause: caused
+halt: halted
+verge: verges
+block: blocks blocked
+postpone: postponed
+hide: hidden
+approve: approved
+location: locations
+regiman: regimen
+produce: produced producing
+manage: managed
+abolish: abolished
+roadhead: roadheads
+kruisschan: kruisschans
+clear: clearing cleared
+plainlink: plainlinks
+pump: pumping pumped
+result: resulted resulting
+depot: depots
+mount: mounting
+join: joined
+package: packaged
+garage: garages
+place: placed places
+affair: affairs
+handle: handling handled
+proceed: proceeded
+tanker: tankers
+effect: effected effects
+sentence: sentences
+affect: affected
+log: logged
+powder: powdered
+grant: granted
+fail: failed
+vessel: vessels
+flimsy: flimsies
+floodlight: floodlights
+weapon: weapons
+army: armies
+improve: improved
+establish: established
+dictate: dictated
+company: companies
+truck: trucks
+request: requested
+delivery: deliveries
+andely: andelys
+evolve: evolved
+consideration: considerations
+crowd: crowded
+state: states
+exploit: exploited
+office: offices
+calculate: calculated
+ally: allied allies
+sail: sailing
+scabie: scabies
+withdraw: withdrawn
+cook: cooking
+force: forced forces
+accept: accepting accepted
+minute: minutes
+replace: replaced
+reinforcement: reinforcements
+retain: retained
+break: breaking broken
+representative: representatives
+shortage: shortages
+strike: striking
+underestimate: underestimated
+service: services
+glider: gliders
+receive: received receiving
+concern: concerns
+consider: considered
+bunker: bunkers
+succeed: succeeded
+connector: connectors
+entice: enticing
+tractor: tractors
+target: targets
+environ: environs
+draught: draughts
+amien: amiens
+administer: administered
+pound: pounds
+capture: capturing captured
+signal: signals
+exhaust: exhausted
+deplete: depleted
+space: spaces spacing
+plan: planned planning
+content: contents
+switch: switched
+vest: vested
+trench: trenches
+knock: knocked
+advance: advanced
+exist: exists existing
+reject: rejected
+erect: erected
+refugee: refugees
+commando: commandos
+colour: coloured
+parse: parsed
+match: matches
+second: seconds
+enable: enabled
+panier: paniers
+category: categories
+driver: drivers
+arrangement: arrangements
+deadline: deadlined
+airfield: airfields
+modify: modified
+large: largest larger
+expect: expected
+fear: feared
+tonne: tonnes
+number: numbered numbers
+cut: cutting
+pipeline: pipelines
+position: positions
+breach: breached
+canal: canals
+remain: remained
+intend: intended
+increase: increased increasing
+logistician: logisticians
+waterway: waterways
+present: presented
+call: called
+train: trains trained
+theatre: theatres
+ounce: ounces
+factory: factories
+contingent: contingents
+chance: chances
+franc: francs
+direct: directed
+emphasise: emphasises
+right: rights
+track: tracks tracked
+variant: variants
+paratrooper: paratroopers
+entity: entities
+interest: interests
+license: licenses
+threaten: threatened
+preclude: precluded
+collapse: collapsed collapses
+occur: occurred
+workshop: workshops
+gallon: gallons
+emergency: emergencies
+endeavour: endeavours
+decision: decisions
+centre: centres
+bridge: bridging bridges
+complete: completed
+impress: impressed
+authority: authorities
+ftheme: fthemes
+condense: condensed
+cushion: cushions
+wagon: wagons
+soon: sooner
+sink: sunken sinking
+represent: representing represented
+look: looked
+supply: supplies supplied
+berth: berths berthed
+anticipate: anticipated
+theme: themes
+compensate: compensated
+railway: railways
+structure: structured
+recentchange: recentchanges
+long: longer
+retire: retired
+head: heading headed
+interallie: interallied
+develop: developed developing
+bring: bringing brought
+stand: standing
+doullen: doullens
+overcrowd: overcrowded
+turn: turned
+lubricant: lubricants
+announce: announced
+promise: promised
+small: smaller
+deliver: delivered
+date: dating
+billet: billets
+hospital: hospitals
+devote: devoted
+school: schools
+supplement: supplemented
+requisition: requisitioned
+convert: converting converted
+pillbox: pillboxes
+submarine: submarines
+delay: delayed delays
+feature: featured
+disease: diseases
+encourage: encouraged
+siegfrie: siegfried
+create: created
+control: controlled controls
+carry: carried carrying
+short: shorter
+hamper: hampered
+deficiency: deficiencies
+fall: fallen
+approach: approaches
+editor: editors
+section: sections
+take: taking
+constraint: constraints
+pierce: pierced
+direction: directions
+clothe: clothed
+product: products
+attribute: attributed
+become: became
+assume: assumed
+minelaye: minelaying
+region: regions
+exacerbate: exacerbated
+officer: officers
+building: buildings
+fit: fitted
+death: deaths
+complication: complications
+utilise: utilised
+refrigerate: refrigerated
+retrain: retraining
+demolish: demolished
+depend: depending
+robot: robots
+ramification: ramifications
+relieve: relieving
+event: events
+article: articles
+commence: commencing commenced
+colliery: collieries
+guide: guides
+attack: attacks attacked
+relate: related
+continue: continued
+prearrange: prearranged
+rebuild: rebuilt
+eprint: eprints
+marking: markings
+raise: raising raised
+connection: connections
+sitelink: sitelinks
+vindicate: vindicated
+ardenne: ardennes
+learn: learning
+transfer: transferred
+logistic: logistics
+unload: unloaded unloading
+crane: cranes
+haunche: haunches
+impregnate: impregnated
+early: earlier
+operate: operating operated
+assist: assisting
+well: better
+activity: activities
+lack: lacking lacked
+style: styles
+wound: wounded
+mycontribution: mycontributions
+escort: escorted
+loan: loaned
+hangar: hangars
+guard: guards
+stockpile: stockpiled
+reach: reached
+give: giving
+assign: assigned
+float: floating
+estimate: estimated
+communication: communications
+register: registered
+fill: filling
+resolve: resolved
+donate: donating
+forr: forrest
+retropoli: retropolis
+far: further
+employee: employees
+formation: formations
+quarry: quarries quarrying
+installation: installations
+injury: injuries
+ground: grounded
+permit: permitted
+browse: browsing
+caction: cactions
+frost: frosts
+follow: following followed
+defence: defences
+congest: congested
+launch: launched
+design: designed
+river: rivers
+booksource: booksources
+experience: experienced
+arrive: arriving arrived
+simplify: simplified simplifying
+resourceloaderdynamicstyle: resourceloaderdynamicstyles
+shell: shells
+namespace: namespaces
+weld: welded
+visit: visited visits
+move: moving
+thame: thames
+miss: misses
+fast: faster
+reorganise: reorganised
+agreement: agreements
+acknowledge: acknowledging
+success: successes
+conduct: conducted
+provision: provisions provisioned provisioning
+share: shared
+howitzer: howitzers
+exercise: exercised
+storehouse: storehouses
+record: recorded
+engineer: engineers
+lessine: lessines
+travel: travelled
+post: posted
+oblige: obliged
+access: accessed
+specialpage: specialpages
+vegetable: vegetables
+quantity: quantities
+fly: flying
+pin: pinned
+system: systems
+damage: damaged
+combine: combined
+employ: employed
+load: loaded
+absorb: absorbed
+despatch: despatched
+roll: rolling
+movement: movements
+exile: exiles
+matter: matters
+runway: runways
+occupy: occupied
+haul: hauling
+augment: augmented
+purpose: purposes
+lay: laying
+division: divisions
+principle: principles
+power: powered
+facility: facilities
+obstruct: obstructed
+prove: proved
+sort: sorting
+divert: diverted
+extend: extended
+coincide: coincided
+edit: edited editing
+civilian: civilians
+pothole: potholes
+import: imports
+expedient: expedients
+start: started
+ship: shipping shipped
+lock: locking
+release: released
+sweep: sweeping
+draw: drawing
+creativecommon: creativecommons
+legacy: legacies
+host: hosted
+great: greatest
+equip: equipped
+report: reported
+dispose: disposed
+hold: holding
+rut: rutting
+seem: seemed
+standing: standings
+convoy: convoys
+street: streets
+other: others
+arromanche: arromanches
+save: saving
+soldier: soldiers
+count: counted counting
+breakdown: breakdowns
+defender: defenders
+duckbill: duckbills
+branch: branches
+reserve: reserves
+forward: forwarding
+codename: codenamed
+account: accounted
+silence: silenced
+plant: plants
+frameexist: frameexists
+casualty: casualties
+persist: persisted
+charle: charles
+improvement: improvements
+wheel: wheels
+recognise: recognised
+cease: ceased
+construct: constructed
+wreck: wrecks
+scuttle: scuttled
+big: biggest
+describe: described
+month: months
+simple: simpler
+option: options
+ethese: etheses
+conundrum: conundrums
+easy: easier
+destroyer: destroyers
+disband: disbanded
+allocate: allocated
+agree: agreed
+suffer: suffered
+liberate: liberated
+locate: located
+dog: dogged
+parachute: parachutes
+dredge: dredging dredged dredges
+condition: conditions
+feprint: feprints
+picket: pickets
+column: columns
+coordinate: coordinating
+unpin: unpinned
+portal: portals
+fcollection: fcollections
+accompany: accompanied
+entail: entailed
+accomplish: accomplished
+basin: basins
+trigger: triggered
+chair: chaired
+container: containers
+test: tested
+disperse: dispersed
+convent: convents
+alternate: alternating
+legion: legions
+reopen: reopened
+accumulate: accumulated
+render: rendering
+developer: developers
+decode: decoding
+keep: keeping
+engine: engines
+firefly: fireflies
+bobbin: bobbins
+flotilla: flotillas
+radio: radios
+concentrate: concentrated
+canadian: canadians
+arrange: arranged
+push: pushed
+point: points
+thousand: thousands
+evacuate: evacuated
+bushel: bushels
+connect: connected
+allot: allotted
+marshal: marshalling
+nature: natures
+encounter: encountered
+refill: refilling
+image: images
+destroy: destroyed
+publish: published
+coaster: coasters
+establishment: establishments
+brydge: brydges
+propose: proposed
+enter: enters
+baker: bakers
+resource: resources

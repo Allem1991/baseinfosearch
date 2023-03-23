@@ -1,0 +1,524 @@
+accord: according
+show: showing
+refer: referred
+fasten: fastened
+piece: pieces
+change: changes
+crossroad: crossroads
+crusader: crusaders
+adopt: adopted
+support: supports supported supporting
+abandon: abandoned
+pronounce: pronounced
+rubberize: rubberized
+history: histories
+expand: expanded
+fill: filled
+recentchangeslinke: recentchangeslinked
+archive: archives archived
+involve: involved
+overload: overloading
+crossing: crossings
+mount: mounted
+associate: associated
+campaign: campaigns
+discard: discarded
+dismantle: dismantled
+state: states stated
+decide: decided
+fabricate: fabricated
+tilta: tiltas
+require: requiring required requires
+stringer: stringers
+lead: leading
+hand: handed
+statistic: statistics
+animal: animals
+prefabricate: prefabricated
+ffile: ffiles
+body: bodies
+military: militaries
+scythian: scythians
+revision: revisions
+operation: operations
+need: needed
+fbook: fbooks
+spell: spelled
+sidewalk: sidewalks
+ride: ridden riding
+set: setting
+employ: employing employed
+horse: horses
+weight: weighted weights
+appoint: appointing
+citerefdavie: citerefdavies
+nowraplink: nowraplinks
+report: reporting reports
+make: making
+contain: contained containing
+mandrocle: mandrocles
+parade: paraded
+extradose: extradosed
+connect: connecting connects connected
+fbridge: fbridging fbridges
+ffloate: ffloating
+instance: instances
+form: formed forming
+disclaimer: disclaimers
+propel: propelled
+sponson: sponsons
+limit: limits limiting
+attach: attached
+demolition: demolitions
+open: opened
+instal: installed
+capitularie: capitularies
+duty: duties
+marsh: marshes
+return: returned
+cubit: cubits
+vehicle: vehicles
+retrieve: retrieved
+allow: allowing allowed
+float: floating floats floated
+trireme: triremes
+common: commons
+treat: treating
+euphrate: euphrates
+battalion: battalions
+long: longer longest
+low: lowest
+compose: composed
+include: including included includes
+order: orders
+harbour: harbours
+reference: references
+cervante: cervantes
+maneuver: maneuvered
+store: stored stores storing
+consist: consisted
+language: languages
+firstheade: firstheading
+iranian: iranians
+wikimediacommon: wikimediacommons
+troop: troops
+heavy: heavier
+windlass: windlasses
+fighter: fighters
+ionian: ionians
+cross: crossing crossed
+vary: varying
+afrikaan: afrikaans
+select: selected
+tower: towers
+obstacle: obstacles
+permit: permitting
+currentevent: currentevents
+provide: provided
+chess: chesses
+prevent: prevented
+link: linked linking
+contaminate: contaminating
+loss: losses
+demonstrate: demonstrated
+explosive: explosives
+back: backed
+fold: folding
+incorporate: incorporating
+high: highest higher
+topping: toppings
+press: pressed
+detail: detailed details
+error: errors
+transport: transporting transported transports
+davy: davies
+look: looking
+induce: induced
+fdetail: fdetails
+barrel: barrels
+miss: missing
+cover: covered
+unporte: unported
+demand: demanded
+march: marching
+slow: slower
+cache: cached
+issue: issued
+invent: invented
+element: elements
+exceed: exceeded
+alternative: alternatives
+barque: barques
+langlink: langlinks
+stamp: stamped
+community: communities
+thwart: thwarted
+indicator: indicators
+plant: planted
+reduce: reducing reduced
+catlink: catlinks
+farchimede: farchimedes
+contribution: contributions
+singe: singing
+enter: entered entering
+point: points pointed
+declare: declared
+cable: cables
+remove: removed
+platoon: platoons
+specialize: specialized
+hide: hidden
+location: locations
+produce: produced
+xerxe: xerxes
+canoe: canoes
+plainlink: plainlinks
+submerge: submerged
+result: resulted resulting
+join: joined
+place: placed places
+letter: lettered
+seattle: seattles
+kingdom: kingdoms
+proceed: proceeded
+lanne: lannes
+sentence: sentences
+log: logged
+pdfpub: pdfpubs
+transcode: transcoded
+wheel: wheeled
+guste: gusting
+elevate: elevated
+fail: failed
+vessel: vessels
+command: commanded
+army: armies
+powerboat: powerboats
+improve: improved
+mechanic: mechanics
+shelter: sheltered
+lash: lashing lashed
+company: companies
+truck: trucks
+redirect: redirected
+manual: manuals
+andely: andelys
+chain: chains
+emplace: emplaced
+chamber: chambers
+come: coming
+board: boards
+constructor: constructors
+fortify: fortified
+ally: allied allies
+force: forced forces
+minute: minutes
+replace: replaced
+break: broken
+nation: nations
+service: services
+consider: considering considered
+nicia: nicias
+truss: trusses
+invention: inventions
+classify: classified
+displace: displaces
+pound: pounds
+eliminate: eliminated
+crosse: crosses
+half: halves
+have: having
+comprise: comprising comprised
+content: contents
+erect: erected
+swamp: swamping
+essle: essling
+parse: parsed
+subject: subjected
+unimpede: unimpeded
+arkansa: arkansas
+second: seconds
+enable: enabled
+category: categories
+component: components
+large: larger
+expect: expected
+hollow: hollowed
+magyar: magyars
+remain: remained
+increase: increasing
+bulkhead: bulkheads
+differentiate: differentiated
+compromise: compromising
+start: starting
+barca: barcas
+call: called
+train: trains
+nautic: nautics
+frank: franks
+chronicle: chronicles
+fpdfpub: fpdfpubs
+depict: depicted
+track: tracks
+photograph: photographs
+development: developments
+variant: variants
+upgrade: upgrades
+gunwale: gunwales
+continue: continued continues
+entity: entities
+license: licenses
+ferry: ferrying ferries
+risk: risking
+collapse: collapsed collapses collapsing
+bear: bearing
+failure: failures
+anchor: anchors anchored
+carriage: carriages
+pursue: pursuing
+emergency: emergencies
+centre: centres
+bridge: bridging bridged bridges
+complete: completed
+authority: authorities
+walk: walked
+wagon: wagons
+compartment: compartments
+supply: supplies
+design: designed designing
+structure: structures structured
+recentchange: recentchanges
+standard: standards
+head: heading headed
+develop: developed
+confusion: confusions
+think: thought
+turn: turned
+oronte: orontes
+slope: sloped
+balkan: balkans
+small: smaller
+deliver: delivered
+version: versions
+nest: nested
+mandate: mandated
+delay: delayed
+feature: features featured
+encourage: encouraging encouraged
+comment: comments
+create: created
+control: controls
+carry: carries carried carrying
+assemble: assembled
+approach: approaches
+editor: editors
+section: sections
+tunnel: tunnels
+specify: specified
+roadway: roadways
+direction: directions
+relief: reliefs
+publisher: publishers
+moor: moored
+big: bigger
+fit: fitted
+death: deaths
+space: spacing
+complication: complications
+benne: benning
+weigh: weighed
+demolish: demolished
+depend: depending
+robot: robots
+event: events
+airstrike: airstrikes
+last: lasted
+article: articles
+span: spanning spanned
+legionary: legionaries
+jackhammer: jackhammers
+vorbi: vorbis
+guide: guides
+citerefunite: citerefunited
+fphysic: fphysics
+relate: related
+rebuild: rebuilt
+raise: raised
+unsource: unsourced
+connection: connections
+sitelink: sitelinks
+hundred: hundreds
+ebook: ebooks
+logistic: logistics
+archimede: archimedes
+early: earliest earlier
+operate: operating operated
+rhode: rhodes
+style: styles
+mycontribution: mycontributions
+stretch: stretched stretching
+otherproject: otherprojects
+flee: fleeing
+wharve: wharves
+sever: severed
+register: registered
+codec: codecs
+donate: donating
+photo: photos
+far: further
+shape: shaped
+country: countries
+separate: separated
+land: landing
+underwriter: underwriters
+browse: browsing
+conceive: conceived
+fengineer: fengineers
+caction: cactions
+follow: followed
+river: rivers
+physic: physics
+booksource: booksources
+ponton: pontons
+timber: timbers
+resourceloaderdynamicstyle: resourceloaderdynamicstyles
+material: materials
+namespace: namespaces
+thame: thames
+move: moving
+repel: repelled
+occur: occurs
+depiction: depictions
+engineer: engineers engineered
+claim: claimed
+rotate: rotating
+volume: volumes
+secure: secured
+record: recorded records
+gild: gilded
+segment: segments
+device: devices
+identifier: identifiers
+specialpage: specialpages
+disintegrate: disintegrates
+echelon: echelons
+footbridge: footbridges
+inch: inches
+light: lighter
+treadway: treadways
+pin: pinned
+throw: thrown
+become: becoming
+damage: damaged damaging
+disposition: dispositions
+obotrite: obotrites
+combine: combined
+batter: battered
+fengineere: fengineering
+statement: statements
+reuter: reuters
+assign: assigning
+load: loaded
+narrow: narrower
+roll: rolling
+movement: movements
+stay: stayed
+patent: patents
+saddle: saddles
+tapestrie: tapestried
+purpose: purposes
+freport: freports
+tall: tallest
+corrode: corroding
+power: powered
+vike: viking
+prove: proved
+cylinder: cylinders
+edit: edited editing
+dislodge: dislodged
+civilian: civilians
+elephant: elephants
+source: sources
+creativecommon: creativecommons
+wear: wearing
+exist: exists
+host: hosted
+visit: visited
+deck: decking
+work: working
+equip: equipped
+hold: holding
+great: greater
+pontoon: pontoons
+renovation: renovations
+unfold: unfolding
+survive: survived
+strain: straining
+other: others
+fresource: fresources
+attempt: attempted
+soldier: soldiers
+extend: extending
+project: projects
+object: objects
+enclose: enclosed
+scenario: scenarios
+stedinger: stedingers
+athenian: athenians
+handle: handles
+charle: charles
+improvement: improvements
+unload: unloaded
+ram: ramming
+galley: galleys
+guardrail: guardrails
+construct: constructed
+lack: lacked
+retake: retaken
+simple: simpler
+option: options
+easy: easier
+suffer: suffered
+rest: rested
+locate: located
+disaster: disasters
+begin: beginning
+condition: conditions
+column: columns
+unpin: unpinned
+trestle: trestles
+estate: estates
+pull: pulled
+pioneer: pioneers
+plank: planks
+revise: revised
+trigger: triggered
+inflate: inflated
+test: tested
+wish: wished
+derive: derived
+render: rendering
+allege: alleged
+developer: developers
+decode: decoding
+bicycle: bicycles
+serve: served
+engine: engines
+realize: realized
+integrate: integrated
+flotilla: flotillas
+deploy: deployed
+arrange: arranged
+help: helped
+beetle: beetles
+image: images
+battle: battles
+destroy: destroyed
+builder: builders
+close: closed
+frighten: frightened
+propose: proposed
+donet: donets
+inundate: inundated
+modification: modifications
+resource: resources

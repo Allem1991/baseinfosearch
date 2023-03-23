@@ -1,0 +1,639 @@
+accord: according
+marine: marines
+complicate: complicated
+friend: friends
+piece: pieces
+change: changed changes
+need: needed needing
+german: germans
+historian: historians
+description: descriptions
+surround: surrounded surrounding
+abandon: abandoned
+manoeuvre: manoeuvring
+rifle: rifles
+want: wanting
+neilland: neillands
+engagement: engagements
+requirement: requirements
+expand: expanded
+fill: filled
+recentchangeslinke: recentchangeslinked
+archive: archived
+involve: involved involving
+canalize: canalized
+chastise: chastised
+crossing: crossings
+hear: hearing
+mount: mounted
+associate: associated
+funny: funnies
+campaign: campaigns
+send: sending
+state: states stated stating
+concern: concerning concerned
+trial: trials
+borderland: borderlands
+general: generals
+decide: decided
+gain: gained
+leaflete: leafleting
+require: requiring required requires
+lead: leading
+effort: efforts
+award: awards awarded
+bomb: bombed
+impose: imposed
+statistic: statistics
+bresken: breskens
+surrender: surrendered
+justify: justifying justified
+occupation: occupations
+revision: revisions
+footnote: footnotes
+garrison: garrisons
+operation: operations
+call: calling called
+fbook: fbooks
+seize: seizing seized
+ask: asking
+lowland: lowlands
+work: worked
+challenge: challenging
+ride: riding
+preserve: preserved
+nowraplink: nowraplinks
+peeble: peebles
+retake: retook retaking
+report: reported reporting reports
+accuse: accused
+make: making
+deprive: deprived
+contain: contained containing
+drive: driving driven
+mortar: mortars
+connect: connecting connected
+run: running
+resume: resumed
+read: reading
+engage: engaged
+sustain: sustaining sustained
+metre: metres
+eliminate: eliminating
+tourist: tourists
+city: cities
+coward: cowards
+avenue: avenues
+minesweeper: minesweepers
+watch: watching
+disclaimer: disclaimers
+block: blocking
+propel: propelled
+note: noting
+recognize: recognized
+leap: leaping
+attach: attached
+demolition: demolitions
+alert: alerted
+open: opened
+anticipate: anticipating
+battery: batteries
+avoid: avoiding
+vehicle: vehicles
+presume: presumed
+highlander: highlanders
+retrieve: retrieved
+allow: allows allowing allowed
+defend: defended defending
+rocket: rockets
+remove: removing
+common: commons
+bypass: bypassing
+suppose: supposed
+battalion: battalions
+long: longer longest
+government: governments
+dig: digging
+regiment: regiments
+order: orders ordering ordered
+prisoner: prisoners
+harbour: harbours
+reference: references
+peel: peeling
+ferry: ferried
+claim: claimed claiming
+show: showed
+fight: fought fighting
+consist: consisting consisted
+language: languages
+firstheade: firstheading
+commander: commanders
+collection: collections
+troop: troops
+breaker: breakers
+woode: wooded
+protect: protected
+acknowledge: acknowledged
+cross: crossing crossed
+water: waters
+select: selected
+obstacle: obstacles
+mistake: mistakes
+flood: flooded flooding floods
+currentevent: currentevents
+provide: providing provided
+flush: flushing
+notice: noticing
+join: joined joining
+kilometre: kilometres
+criticize: criticized
+strengthen: strengthened
+opportunity: opportunities
+leare: learing
+link: linked
+loss: losses
+portray: portrayed
+live: living
+land: landing landed
+recover: recovered
+tell: telling
+demonstrate: demonstrated
+flaw: flawed
+convince: convinced
+high: highest higher
+crew: crewed
+react: reacted
+confuse: confusing
+preparation: preparations
+advise: advised
+monitor: monitors
+detail: detailed details
+kill: killed killing
+replacement: replacements
+cater: catered
+look: looked looking
+study: studies
+detest: detested
+house: houses
+prepare: preparing
+fdetail: fdetails
+unporte: unported
+restrict: restricted
+escape: escaped
+volunteer: volunteers
+face: facing
+cache: cached
+issue: issued
+hard: hardest harder
+divide: divided
+foothold: footholds
+sign: signed
+exceed: exceeded
+discover: discovered
+eberde: eberding
+langlink: langlinks
+afflict: afflicted
+launch: launching launched
+withdraw: withdrew withdrawn
+indicator: indicators
+brigade: brigades
+catlink: catlinks
+fusilier: fusiliers
+inspire: inspired
+secure: secured securing
+difficulty: difficulties
+stop: stopping stopped
+enemy: enemies
+prefer: preferred
+contribution: contributions
+bruge: bruges
+problem: problems
+enter: entered
+execute: executed executing
+suggest: suggesting
+declare: declared
+steer: steered
+landing: landings
+platoon: platoons
+cause: causing caused causes
+dispute: disputed
+specialize: specialized
+halt: halted
+immigrant: immigrants
+hide: hidden
+manage: managed
+overwhelm: overwhelming
+clear: clearing cleared clearest
+diary: diaries
+plainlink: plainlinks
+result: resulting
+protest: protested
+trick: tricked
+precede: preceding preceded
+enjoy: enjoyed
+place: placed places
+affair: affairs
+action: actions
+thank: thanks
+proceed: proceeded
+theater: theaters
+conference: conferences
+power: powers powered
+sentence: sentences
+log: logged
+endure: endured
+participant: participants
+fail: failed
+vessel: vessels
+weapon: weapons
+command: commanded commanding
+army: armies
+say: saying
+artilleryman: artillerymen
+establish: establishing established
+transport: transports
+bombardment: bombardments
+company: companies
+truck: trucks
+simond: simonds
+crumble: crumbled
+entrench: entrenched
+guide: guides guided guiding
+experience: experienced experiences
+dot: dotted
+come: coming
+fortify: fortified
+calculate: calculated
+ally: allied allies
+praise: praised
+force: forcing forced forces
+canadiansoldier: canadiansoldiers
+reinforcement: reinforcements
+insist: insisted
+philippine: philippines
+try: trying
+break: breaking broken
+spirit: spirits
+thunder: thundered
+shortage: shortages
+concentrate: concentrated concentrating
+nation: nations
+underestimate: underestimated
+believe: believing
+service: services
+consider: considered
+param: params
+bomber: bombers
+succeed: succeeded
+maisie: maisies
+veteran: veterans
+forget: forgotten
+coast: coasts
+policy: policies
+resist: resisted
+relieve: relieved
+have: having
+reveal: revealed
+inhabitant: inhabitants
+plan: planned planning
+content: contents
+trench: trenches
+advance: advancing advanced advances
+commando: commandos
+belligerent: belligerents
+parse: parsed
+support: supported
+attack: attacked attacks attacking
+second: seconds
+enable: enabled
+light: lights
+bombing: bombings
+category: categories
+busy: busiest
+brothel: brothels
+flakvierle: flakvierling
+include: including includes
+appreciate: appreciated
+execution: executions
+expect: expected
+cut: cutting
+number: numbers
+ditch: ditches
+large: largest
+position: positions
+storm: stormed storming
+breach: breached
+canal: canals
+remain: remained
+choice: choices
+black: blackest
+focus: focused
+ignore: ignored
+citation: citations
+start: started starting
+regard: regarded regards
+slow: slowing slowed
+frank: franks
+sanction: sanctioned
+choose: chosen
+topic: topics
+variant: variants
+see: seeing
+warn: warned
+entity: entities
+memoir: memoirs
+license: licenses
+inform: informed
+collapse: collapsed collapses
+occur: occurred
+inundation: inundations
+montrealer: montrealers
+decision: decisions
+shatter: shattered
+explain: explained
+complete: completed
+nickname: nicknamed
+ensure: ensuring
+imagine: imagined
+survive: surviving
+atrocity: atrocities
+approach: approaches approached
+calgaryhighlander: calgaryhighlanders
+deserter: deserters
+achieve: achieved
+earn: earned
+supply: supplies supplied
+compensate: compensated
+destroy: destroying destroyed
+structure: structured
+recentchange: recentchanges
+finish: finished
+bring: bringing brought
+think: thought
+track: tracked
+announce: announced
+conflict: conflicts
+promise: promised
+stiffen: stiffening
+indie: indies
+supplement: supplemented
+close: closed closing
+pillbox: pillboxes
+delay: delaying delayed
+encourage: encouraged
+people: peoples
+siegfrie: siegfried
+create: created
+control: controlling controls
+carry: carried carrying
+hamper: hampered
+flamethrower: flamethrowers
+editor: editors
+take: taking
+section: sections
+leader: leaders
+rebuff: rebuffed
+roadway: roadways
+direction: directions
+declaration: declarations
+become: became
+big: bigger
+stage: staged
+officer: officers
+building: buildings
+cite: citing
+death: deaths
+space: spacing
+complication: complications
+flick: flicking
+robot: robots
+regain: regained
+hang: hanging
+event: events
+grow: growing
+relation: relations
+article: articles
+strand: stranded
+appear: appears
+dunda: dundas
+reply: replied
+belong: belonging
+commence: commenced
+occupy: occupied occupying
+bestow: bestowed
+relate: related
+continue: continued
+pronge: pronged
+charge: charges
+decoration: decorations
+raise: raised
+unsource: unsourced
+carrier: carriers
+sitelink: sitelinks
+feel: feeling
+ardenne: ardennes
+waterlogge: waterlogged
+crime: crimes
+regret: regretted
+early: earlier
+exert: exerting
+well: better
+style: styles
+wound: wounded
+outnumber: outnumbered
+mycontribution: mycontributions
+stretch: stretched stretching
+otherproject: otherprojects
+guard: guards
+reach: reached
+tough: toughest
+give: giving
+sweeper: sweepers
+assign: assigned
+strike: strikes
+register: registered
+scholar: scholars
+donate: donating
+photo: photos
+far: further
+country: countries
+formation: formations
+citerefhorrock: citerefhorrocks
+browse: browsing
+bulldozer: bulldozers
+favour: favoured
+caction: cactions
+jinx: jinxed
+follow: following followed
+defence: defences
+design: designed
+write: writing
+river: rivers
+express: expressed
+booksource: booksources
+tactic: tactics
+resourceloaderdynamicstyle: resourceloaderdynamicstyles
+hussar: hussars
+binocular: binoculars
+repair: repairs
+shell: shells
+namespace: namespaces
+move: moving
+center: centering
+conduct: conducted
+mountain: mountains
+curl: curled
+engineer: engineers
+saturate: saturated
+borderer: borderers
+travel: travelled
+leave: leaving
+front: fronts
+oblige: obliged
+arrive: arrived
+seek: seeking
+increase: increased
+specialpage: specialpages
+flame: flames
+factor: factors
+island: islands
+pin: pinned
+damage: damaged
+combine: combined
+head: heading
+batter: battered
+statement: statements
+daunt: daunting
+load: loaded
+receive: receiving
+overrun: overrunning
+act: acting
+horrock: horrocks
+matter: matters
+fortress: fortresses
+reduce: reduced
+lowlander: lowlanders
+newspaper: newspapers
+partisan: partisans
+recruit: recruited
+division: divisions
+march: marched
+flander: flanders
+cormelle: cormelles
+hedge: hedges
+vike: viking
+comine: comines
+uprise: uprising
+facility: facilities
+suffer: suffering suffered
+prove: proved
+citerefneilland: citerefneillands
+worry: worried
+refuse: refused
+fortification: fortifications
+edit: edited editing
+temp: tempest
+bill: billed
+offer: offered
+tankman: tankmen
+source: sources
+creativecommon: creativecommons
+tackle: tackled
+exist: exists
+host: hosted
+visit: visited
+great: greatest greater
+equip: equipped
+sector: sectors
+hold: holding
+seem: seemed
+replace: replacing
+litter: littered
+complaint: complaints
+convoy: convoys
+decline: declined
+soldier: soldiers
+extend: extending
+project: projects
+offensive: offensives
+narrow: narrowest
+defender: defenders
+reserve: reserves
+spine: spines
+imply: implying
+codename: codenamed
+hinder: hindered
+win: winning
+casualty: casualties
+charle: charles
+pass: passing
+improvement: improvements
+rican: ricans
+respond: responded
+lauri: laurier
+ship: shipping
+reinforce: reinforced
+construct: constructed
+lack: lacked
+describe: described
+month: months
+option: options
+emphasize: emphasizing
+infantryman: infantrymen
+press: pressing
+sniper: snipers
+ensue: ensued
+unload: unloads
+agree: agreed
+assault: assaults
+liberate: liberated
+operate: operating
+shiver: shivers
+begin: beginning
+appoint: appointed
+condition: conditions
+ascertain: ascertained
+publish: publishing
+column: columns
+unpin: unpinned
+detach: detached
+pocket: pockets
+riley: rileys
+dread: dreaded
+america: americas
+meet: meeting
+counterattack: counterattacks
+trigger: triggered
+wish: wished
+strong: strongest stronger
+render: rendering
+lose: losing
+developer: developers
+decode: decoding
+engine: engines
+decimate: decimated
+sleep: sleeping
+exhibit: exhibited
+complain: complained
+deploy: deployed
+bridgehead: bridgeheads
+canadian: canadians
+push: pushed
+point: points
+rise: rising
+fscholar: fscholars
+oppose: opposed
+conscript: conscripts
+encounter: encountered
+image: images
+battle: battles
+retreat: retreated
+bridge: bridges
+commit: committed
+testament: testaments
+struggle: struggled
+buffalo: buffaloes
+capture: captured
+masse: masses
+remnant: remnants
+resource: resources
